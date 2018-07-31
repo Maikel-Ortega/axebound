@@ -1,2 +1,2 @@
-# ZGB-template
-a template for projects using ZGB, the engine I developed for the orginal Game Boy
+# Axebound
+A GameBoy game developed with ZGB and GBDK
